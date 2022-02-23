@@ -1,0 +1,94 @@
+*{
+  text-align: center;
+  font-size: 22px;
+}
+h1
+{margin: 2% 20%;
+  font-size: 40px;
+  background-color: red;
+  color: white;
+  border-style: dashed;
+  border-color: yellow;
+ border-width: 20%;
+ padding:5%;
+}
+h2
+{
+  background-color: orange;
+ text-decoration: underline;
+}
+img
+{
+  border: dashed ;
+  border-color: red;
+  
+}
+.ttitle
+{
+ text-decoration: underline;
+ text-decoration-color: green;
+  text-align: center;
+  background-color: pink;
+  color: red;
+}
+table
+{
+  background-color:gold;
+  text-align: center;
+  color: black;
+}
+th 
+{
+  background-color: yellow;
+  color:black ;
+}
+p
+{
+  font-style: italic;
+}
+h3
+{
+  margin: 2% 15%;
+border-width: 20%;
+  background-color: blue;
+  color:white;
+}
+.monthly
+{
+  border-style: dotted;
+  border-radius: 10%;
+  background-color: pink;
+}
+.weekly
+{
+  border-style: dotted;
+  border-radius: 10%;
+  background-color: pink;
+}
+.s1,.s2{
+ background-color:orange;
+}
+.st1, .st2,.st3,.st4
+{
+  background-color: blue;
+  color: white;
+}
+.t1,.t2,.t3,.t4 
+{
+  background-color: red;
+}
+.l1,.l2, .l3
+{
+  background-color: violet;
+  
+}
+.g1,.g2,.g3,.g4,.g5
+{
+  background-color: brown;
+  color: white;
+}
+.b1,.b2,.b3
+{
+  background-color: red;
+  color: white;
+}

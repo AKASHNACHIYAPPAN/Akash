@@ -1,0 +1,92 @@
+*
+{font-size:18px}
+.head
+{
+  color: white;
+  margin: 10℅;
+  border-style: dashed;
+  border-color: green;
+  border-width: 10px 50px;
+  background-color: brown;
+  padding: 10px;
+  
+}
+.introh
+{
+  border-style:double;
+  border: 50px 40px ;
+  background-color: red;
+  border-color: yellow;
+}
+img
+{
+  margin-top: 10px;
+  margin-left: 34%;
+  border: dashed;
+
+  border-color: red;
+  border-radius: 30px ;
+  height: 250px;
+  width: 250px;
+  padding: 2%;
+ }
+.introh h1
+{
+  text-decoration: underline;
+  
+}
+.para1
+  { 
+    border-style: dashed;
+    background-color:red ;
+    }
+ table
+ {
+   text-align: center;
+   background-color: green;
+   color: white;
+   }
+ .menu h1
+ {
+   text-decoration: underline;
+ }
+li,.contact,.webn
+{
+font-style: italic;
+}
+.signupp
+{
+  word-spacing: 5px;
+  color: red;
+}
+.videop
+{
+  color:blue ;
+  font-size: 50px;
+}
+video
+{
+  align-content: center;
+}
+#contact
+{
+  margin:20px;
+  border-style: double;
+  text-align: center;
+  background-color: yellow;
+}
+
+#webn
+{
+  margin: 20px;
+  text-align: center;
+  border-style: double;
+  background-color: blue;
+  color: white;
+}
+.singupimg
+{
+  border: dashed;
+  border-color: black;
+  
+}
